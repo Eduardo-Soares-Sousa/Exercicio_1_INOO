@@ -27,7 +27,7 @@ public class MainTri{
                     if(verificar.Isoceles()){
                         System.out.println("É um triângulo Isóceles");
                     }else{
-                        System.out.println("Não é triângulo");
+                        System.out.println("Não é um triângulo");
                     }
                 }
             }
