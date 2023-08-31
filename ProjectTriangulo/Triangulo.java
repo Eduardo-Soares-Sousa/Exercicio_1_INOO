@@ -1,6 +1,6 @@
 package ProjectTriangulo;
 
-public class Triangulo{
+public class Triangulo {
 
     private int ladoA;
     private int ladoB;
